@@ -51,7 +51,7 @@ This project demonstrates the use of a **Support Vector Machine (SVM)** classifi
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools & Libraries Used
 
 ```python
 Python
